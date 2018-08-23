@@ -9,9 +9,9 @@
 ## Prerequisites :-
 
     • Python 3
-      •	$ sudo apt-get install python
-    •	$python-twitter package
-      •	$pip install python-twitter
+      ($ sudo apt-get install python)
+    • python-twitter package
+      ($pip install python-twitter)
    
 ## Running :-
 
